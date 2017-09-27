@@ -2,3 +2,5 @@ Common/dataset/*
 !Common/dataset/mnist.py
 
 !.gitkeep
+
+.DS_Store
